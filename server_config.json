@@ -1,0 +1,7 @@
+{
+    "mongodbUrl": "mongodb://dbuser:1234@ds015899.mlab.com:15899/gcmpush",
+
+    "gcm": {
+        "apiKey": "<PUT YOUR KEY RETRIEVED FROM GOOGLE API CONSOLE HERE>"
+    }
+}
